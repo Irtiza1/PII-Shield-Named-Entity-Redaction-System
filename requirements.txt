@@ -1,0 +1,21 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+requests
+gdown
+
+# Dataset Handling
+datasets
+
+# Model Training and Evaluation
+torch
+transformers
+seqeval
+accelerate
+
+# LLM Integration
+google-generativeai
+openai
