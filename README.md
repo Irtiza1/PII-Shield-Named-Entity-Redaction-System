@@ -62,5 +62,5 @@ The objective is to evaluate their efficiency and effectiveness in PII detection
 - **Security Considerations & Risk Mitigation:**
   - Apply confidence thresholds to reduce false positives.
   - Ensure no partial emails or names remain unmasked through post-processing rules.
-  - Review and use missed cases for retraining to improve detection.
+  - Review and use missed cases for retraining to improve detection
 ---
